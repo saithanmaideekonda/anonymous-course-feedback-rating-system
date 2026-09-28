@@ -1,4 +1,4 @@
-# AI Integrated Feedback Rating System
+# anonymous-course-feedback-rating-system
 
 A MERN stack based web application designed for collecting anonymous course feedback and ratings from students in an organized and efficient manner.
 
